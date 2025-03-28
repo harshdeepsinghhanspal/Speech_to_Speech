@@ -1,5 +1,7 @@
 # 🎤 Voice-Powered AI Chatbot with Llama3 (Groq) 🚀
 
+⚠PYTHON VERSION: 3.9 and above
+
 This project is a **voice-based AI chatbot** that listens to user input, processes it using **Groq's Llama3 model via LangChain**, and responds with synthesized speech. It leverages **speech recognition (Google API)** and **text-to-speech (pyttsx3)** for a seamless interactive experience. 🗣️🤖
 
 ## 📌 Features
